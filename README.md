@@ -4,6 +4,13 @@ Adds a new option called "Long Nap" which is a six hour nap.
 
 It has the same benefits as if the character was able to take 1.5 naps.
 
+## Chinese
+DeepL.com translated
+
+增加了一个新的选项，叫做 "长时间小睡"，这是一个六小时的小睡。
+
+它的好处与人物能够进行1.5次小睡的好处相同。
+
 
 # Languages
 The game will automatically pick up the player's language.
